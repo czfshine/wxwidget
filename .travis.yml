@@ -4,7 +4,7 @@ compiler:
 os:
 - linux
 before_install:
-- cd ./wxWidgets-2.8.12src/wxWidgets-2.8.12/
+- cd ./wxwidgets/wxWidgets-2.8.12src/wxWidgets-2.8.12/
 - mkdir buildgtk
 - cd buildgtk
 - ../configure --with-gtk
