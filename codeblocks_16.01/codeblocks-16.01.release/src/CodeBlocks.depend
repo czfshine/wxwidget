@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1453567406 source:c:\workplace\project\wxwidgets\codeblocks_16.01\codeblocks-16.01.release\src\base\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1453567404 c:\workplace\project\wxwidgets\codeblocks_16.01\codeblocks-16.01.release\src\include\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1453567406 source:c:\workplace\project\wxwidgets\codeblocks_16.01\codeblocks-16.01.release\src\base\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1453567404 c:\workplace\project\wxwidgets\codeblocks_16.01\codeblocks-16.01.release\src\include\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1453567406 source:c:\workplace\project\wxwidgets\codeblocks_16.01\codeblocks-16.01.release\src\base\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1453567406 source:c:\workplace\project\wxwidgets\codeblocks_16.01\codeblocks-16.01.release\src\base\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
