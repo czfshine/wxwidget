@@ -266,3 +266,4 @@ wxMSW-2.8.12-Setup.exe
 /evn/
 *.pch
 wxWidgets-2.8.12/
+wxWidgets-2.8.12src/wxWidgets-2.8.12/buildgtk/
